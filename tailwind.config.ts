@@ -8,6 +8,12 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      margin: {
+        4: '20px',
+        3: '18px',
+        2: '16px',
+        1: '14px',
+      },
       fontSize:{
         xs:'12px',
         sm: '15px',
